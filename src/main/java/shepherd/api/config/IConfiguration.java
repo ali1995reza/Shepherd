@@ -1,7 +1,5 @@
 package shepherd.api.config;
 
-import com.sun.istack.internal.NotNull;
-
 /**
  * This class use to create a configuration
  */
